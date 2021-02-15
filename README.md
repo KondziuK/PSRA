@@ -7,5 +7,7 @@ Because of CoronaVirus crisis the implementation on real SoC was suspended. Inst
 
 
 Software model -> C++ code with OpenCV software model
+
 Simulation/FPGA sim -> Vivado 2018.3 project with an fpga simulation
+
 Simulation/Software sim -> Part of software model which was responsible of analysis of detected objects

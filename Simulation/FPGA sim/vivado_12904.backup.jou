@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Jun  9 16:14:39 2020
+# Process ID: 12904
+# Current directory: C:/backup/FPGA/Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2944 C:\backup\FPGA\Project\Project.xpr
+# Log file: C:/backup/FPGA/Project/vivado.log
+# Journal file: C:/backup/FPGA/Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/backup/FPGA/Project/Project.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/backup/FPGA/Project/Project.srcs/sim_1/imports/Project/tb_hdmi_behav.wcfg
+source tb_hdmi.tcl
+run 1 ms
+close_sim

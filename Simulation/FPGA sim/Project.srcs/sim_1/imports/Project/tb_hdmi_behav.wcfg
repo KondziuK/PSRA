@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_hdmi_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_hdmi" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="312523186384fs"></ZoomStartTime>
+      <ZoomEndTime time="894644162724fs"></ZoomEndTime>
+      <Cursor1Time time="797624000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="431"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="38" />
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/R_input" type="array">
+      <obj_property name="ElementShortName">R_input[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R_input[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/G_input" type="array">
+      <obj_property name="ElementShortName">G_input[7:0]</obj_property>
+      <obj_property name="ObjectShortName">G_input[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/B_input" type="array">
+      <obj_property name="ElementShortName">B_input[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B_input[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/ce" type="logic">
+      <obj_property name="ElementShortName">ce</obj_property>
+      <obj_property name="ObjectShortName">ce</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/de_in" type="logic">
+      <obj_property name="ElementShortName">de_in</obj_property>
+      <obj_property name="ObjectShortName">de_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/vsync_in" type="logic">
+      <obj_property name="ElementShortName">vsync_in</obj_property>
+      <obj_property name="ObjectShortName">vsync_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/hsync_in" type="logic">
+      <obj_property name="ElementShortName">hsync_in</obj_property>
+      <obj_property name="ObjectShortName">hsync_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/fos" type="array">
+      <obj_property name="ElementShortName">fos[23:0]</obj_property>
+      <obj_property name="ObjectShortName">fos[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/cfd" type="array">
+      <obj_property name="ElementShortName">cfd[23:0]</obj_property>
+      <obj_property name="ObjectShortName">cfd[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/bg" type="array">
+      <obj_property name="ElementShortName">bg[23:0]</obj_property>
+      <obj_property name="ObjectShortName">bg[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/vsync_out" type="logic">
+      <obj_property name="ElementShortName">vsync_out</obj_property>
+      <obj_property name="ObjectShortName">vsync_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/hsync_out" type="logic">
+      <obj_property name="ElementShortName">hsync_out</obj_property>
+      <obj_property name="ObjectShortName">hsync_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/de_out" type="logic">
+      <obj_property name="ElementShortName">de_out</obj_property>
+      <obj_property name="ObjectShortName">de_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pixel_addres" type="array">
+      <obj_property name="ElementShortName">pixel_addres[14:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel_addres[14:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pixel_addres_del" type="array">
+      <obj_property name="ElementShortName">pixel_addres_del[14:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel_addres_del[14:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pixel_addres_del_2" type="array">
+      <obj_property name="ElementShortName">pixel_addres_del_2[14:0]</obj_property>
+      <obj_property name="ObjectShortName">pixel_addres_del_2[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/bg_model_write" type="array">
+      <obj_property name="ElementShortName">bg_model_write[23:0]</obj_property>
+      <obj_property name="ObjectShortName">bg_model_write[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/R_del" type="array">
+      <obj_property name="ElementShortName">R_del[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R_del[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/G_del" type="array">
+      <obj_property name="ElementShortName">G_del[7:0]</obj_property>
+      <obj_property name="ObjectShortName">G_del[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/B_del" type="array">
+      <obj_property name="ElementShortName">B_del[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B_del[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/de_del" type="logic">
+      <obj_property name="ElementShortName">de_del</obj_property>
+      <obj_property name="ObjectShortName">de_del</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/vsync_del" type="logic">
+      <obj_property name="ElementShortName">vsync_del</obj_property>
+      <obj_property name="ObjectShortName">vsync_del</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/hsync_del" type="logic">
+      <obj_property name="ElementShortName">hsync_del</obj_property>
+      <obj_property name="ObjectShortName">hsync_del</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/de_del_2" type="logic">
+      <obj_property name="ElementShortName">de_del_2</obj_property>
+      <obj_property name="ObjectShortName">de_del_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/vsync_del_2" type="logic">
+      <obj_property name="ElementShortName">vsync_del_2</obj_property>
+      <obj_property name="ObjectShortName">vsync_del_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/hsync_del_2" type="logic">
+      <obj_property name="ElementShortName">hsync_del_2</obj_property>
+      <obj_property name="ObjectShortName">hsync_del_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/first_frame" type="logic">
+      <obj_property name="ElementShortName">first_frame</obj_property>
+      <obj_property name="ObjectShortName">first_frame</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_pix_diff_1" type="array">
+      <obj_property name="ElementShortName">pix_pix_diff_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_pix_diff_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_pix_diff_2" type="array">
+      <obj_property name="ElementShortName">pix_pix_diff_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_pix_diff_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_pix_diff_3" type="array">
+      <obj_property name="ElementShortName">pix_pix_diff_3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_pix_diff_3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_bg_diff_1" type="array">
+      <obj_property name="ElementShortName">pix_bg_diff_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_bg_diff_1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_bg_diff_2" type="array">
+      <obj_property name="ElementShortName">pix_bg_diff_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_bg_diff_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/pix_bg_diff_3" type="array">
+      <obj_property name="ElementShortName">pix_bg_diff_3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">pix_bg_diff_3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/FOS_TH" type="array">
+      <obj_property name="ElementShortName">FOS_TH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FOS_TH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/test_fos_cfd/CFD_TH" type="array">
+      <obj_property name="ElementShortName">CFD_TH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CFD_TH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hdmi/my_precious_CCL/inst/params" type="array">
+      <obj_property name="ElementShortName">params[159:0]</obj_property>
+      <obj_property name="ObjectShortName">params[159:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

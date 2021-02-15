@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Feb 15 22:23:48 2021
+# Process ID: 2216
+# Current directory: C:/Users/U퓓tkownik/Downloads/PSRA-20210215T211759Z-001/PSRA/Project/Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15724 C:\Users\U퓓tkownik\Downloads\PSRA-20210215T211759Z-001\PSRA\Project\Project\Project.xpr
+# Log file: C:/Users/U퓓tkownik/Downloads/PSRA-20210215T211759Z-001/PSRA/Project/Project/vivado.log
+# Journal file: C:/Users/U퓓tkownik/Downloads/PSRA-20210215T211759Z-001/PSRA/Project/Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/U퓓tkownik/Downloads/PSRA-20210215T211759Z-001/PSRA/Project/Project/Project.xpr
+update_compile_order -fileset sources_1

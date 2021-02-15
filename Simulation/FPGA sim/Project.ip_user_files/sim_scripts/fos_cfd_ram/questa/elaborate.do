@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xil_defaultlib -L xpm -L blk_mem_gen_v8_4_2 -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.fos_cfd_ram xil_defaultlib.glbl -o fos_cfd_ram_opt

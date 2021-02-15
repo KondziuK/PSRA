@@ -1,0 +1,85 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/BRAM_params/sim/BRAM_params.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM_params
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/stackMemory2/sim/stackMemory2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stackMemory2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/mergeControl/sim/mergeControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mergeControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/lineMergeControl/sim/lineMergeControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lineMergeControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/row_BRAM/sim/row_BRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module row_BRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/stackMemory/sim/stackMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stackMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/ip/stack2/sim/stack2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stack2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/chainStack.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module chainStack
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/delay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/delay_BRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay_BRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/delay_line.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delay_line
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module extractor
+WARNING: [VRFC 10-3380] identifier 'resetMerged' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:108]
+WARNING: [VRFC 10-3380] identifier 'resetMerged' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:113]
+WARNING: [VRFC 10-3380] identifier 'resetMerged' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:119]
+WARNING: [VRFC 10-3380] identifier 'resetMemory' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:121]
+WARNING: [VRFC 10-3380] identifier 'resetCnt' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:122]
+WARNING: [VRFC 10-3380] identifier 'resetMemory' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:125]
+WARNING: [VRFC 10-3380] identifier 'resetCnt' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:127]
+WARNING: [VRFC 10-3380] identifier 'resetMemory' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:132]
+WARNING: [VRFC 10-3380] identifier 'resetCnt' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:133]
+WARNING: [VRFC 10-3380] identifier 'overlap' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:171]
+WARNING: [VRFC 10-3380] identifier 'overlap' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/extractor.v:172]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module labeller
+WARNING: [VRFC 10-3380] identifier 'contextD' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:58]
+WARNING: [VRFC 10-3380] identifier 'contextD' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:66]
+WARNING: [VRFC 10-3380] identifier 'Bmux' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:116]
+WARNING: [VRFC 10-3380] identifier 'Cmux' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:117]
+WARNING: [VRFC 10-3380] identifier 'trueMerge' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:134]
+WARNING: [VRFC 10-3380] identifier 'mergeAddress_d' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:136]
+WARNING: [VRFC 10-3380] identifier 'lutOut' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:182]
+WARNING: [VRFC 10-3380] identifier 'lutOut' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:211]
+WARNING: [VRFC 10-3380] identifier 'stackOut' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:297]
+WARNING: [VRFC 10-3380] identifier 'stackOut' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:299]
+WARNING: [VRFC 10-3380] identifier 'stackOut' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:302]
+WARNING: [VRFC 10-3380] identifier 'chainLabel' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:347]
+WARNING: [VRFC 10-3380] identifier 'lutOut1' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:348]
+WARNING: [VRFC 10-3380] identifier 'mergeChainAddr' is used before its declaration [C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/labeller.v:367]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/lutControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lutControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/max.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module max
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/mergedStack.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mergedStack
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/min.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module min
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/Algorithm.srcs/sources_1/imports/Verilog/position.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module position
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.ip_user_files/ipstatic/xil_defaultlib/Algorithm.srcs/sources_1/imports/Verilog/sp_ccl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SinglePass_CCL
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/SinglePass_CCL_0/sim/SinglePass_CCL_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SinglePass_CCL_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/median_bin_5x5_0/ip/delayLineBRAM/sim/delayLineBRAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delayLineBRAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/median_bin_5x5_0/imports/ip_repo/delayLinieBRAM_WP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module delayLinieBRAM_WP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/median_bin_5x5_0/imports/ip_repo/median_bin_5x5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module median_bin_5x5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/median_bin_5x5_0/sim/median_bin_5x5_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module median_bin_5x5_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/ip/fos_cfd_ram/sim/fos_cfd_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fos_cfd_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/new/fos_cfd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fos_cfd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/imports/tb_hdmi_vision_pipeline/hdmi_psra_hsvs_in.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_in
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/imports/tb_hdmi_vision_pipeline/hdmi_psra_hsvs_out.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hdmi_out
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/imports/backup/txt_out_v2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module txt_out_v2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/backup/FPGA/Project/Project.srcs/sources_1/imports/tb_hdmi_vision_pipeline/tb_hdmi_psra_hsvs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_hdmi
